@@ -10,7 +10,7 @@ Feel free to checkout my projects, they are bulit with *Vanilla JavaScript* (Rea
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrinilssonbysell&show_icons=true&theme=radical)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Dmitrinilssonbysell)
 *Thanks! You just added 1 more 😉*
 
 
