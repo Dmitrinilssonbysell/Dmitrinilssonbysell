@@ -8,8 +8,11 @@
   <b>
     Front-end Developer 😎
   </b>
-</h2> 
+</h2>
+
+
 <i>Specializing in javascript * Jensen Education College of Stockholm *</i>
+
 
 <p>
   <b>React Native</b>
