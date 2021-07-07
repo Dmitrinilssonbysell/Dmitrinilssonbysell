@@ -2,14 +2,14 @@
 
 
 
-<h1><i>Nilsson Bysell</i></h1>
+<h1>Dmitri Nilsson Bysell</h1>
 
 <h2>
   <b>
     Front-end Developer 😎
   </b>
 </h2> 
-Specializing in javascript * Jensen Education College of Stockholm *
+<i>Specializing in javascript * Jensen Education College of Stockholm *</i>
 
 <p>
   <b>React Native</b>
