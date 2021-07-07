@@ -4,8 +4,13 @@
 
 # Hello I'm Dmitri!
 
-<h1><b>Front-end Developer</b></h1> specializing in javascript * Jensen Education College of Stockholm *.
-<b>React Native</b> | <b>React js</b> | <b>Next js</b> | <b>Javascript</b> | <b>Css</b> | <b>Sass</b> | <b>Html</b> | <b>Git</b> 😎.  
+<h1>
+  <b>
+    Front-end Developer
+  </b>
+</h1> 
+Specializing in javascript * Jensen Education College of Stockholm *.
+<p><b>React Native</b> | <b>React js</b> | <b>Next js</b> | <b>Javascript</b> | <b>Css</b> | <b>Sass</b> | <b>Html</b> | <b>Git</b></p> 😎.  
 
 # https://nilssonbysell.com
 
