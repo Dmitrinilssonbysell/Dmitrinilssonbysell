@@ -12,7 +12,7 @@
 Specializing in javascript * Jensen Education College of Stockholm *.
 
 <p>
-  - ![#f03c15]<b>React Native</b>"#f03c15" | 
+  <b>React Native</b>
   <b>React js</b> | 
   <b>Next js</b> | 
   <b>Javascript</b> | 
