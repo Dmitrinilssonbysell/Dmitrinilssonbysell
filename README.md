@@ -10,9 +10,9 @@
   </b>
 </h1> 
 Specializing in javascript * Jensen Education College of Stockholm *.
-- ![#f03c15]
+
 <p>
-  <b>React Native</b> | 
+  - ![#f03c15]<b>React Native</b>"#f03c15" | 
   <b>React js</b> | 
   <b>Next js</b> | 
   <b>Javascript</b> | 
@@ -21,7 +21,6 @@ Specializing in javascript * Jensen Education College of Stockholm *.
   <b>Html</b> | 
   <b>Git</b>
 </p>
-"#f03c15"
 😎.  
 
 # https://nilssonbysell.com
