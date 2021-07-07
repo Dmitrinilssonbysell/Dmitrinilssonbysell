@@ -6,10 +6,10 @@
 
 <h1>
   <b>
-    Front-end Developer
+    Front-end Developer 😎
   </b>
 </h1> 
-Specializing in javascript * Jensen Education College of Stockholm *.
+Specializing in javascript * Jensen Education College of Stockholm *
 
 <p>
   <b>React Native</b>
@@ -21,9 +21,8 @@ Specializing in javascript * Jensen Education College of Stockholm *.
   <b>Html</b> | 
   <b>Git</b>
 </p>
-😎.  
 
-# https://nilssonbysell.com
+#<i>https://nilssonbysell.com</i>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrinilssonbysell&show_icons=true&theme=radical)
 
