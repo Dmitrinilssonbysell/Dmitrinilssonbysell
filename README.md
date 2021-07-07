@@ -22,7 +22,7 @@ Specializing in javascript * Jensen Education College of Stockholm *
   <b>Git</b>
 </p>
 
-#<i>https://nilssonbysell.com</i>
+<h2><i>https://nilssonbysell.com</i></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrinilssonbysell&show_icons=true&theme=radical)
 
