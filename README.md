@@ -12,14 +12,14 @@
 Specializing in javascript * Jensen Education College of Stockholm *.
 
 <p>
-  <b>React Native</b>
-  <b>React js</b> | 
-  <b>Next js</b> | 
-  <b>Javascript</b> | 
-  <b>Css</b> | 
-  <b>Sass</b> | 
-  <b>Html</b> | 
-  <b>Git</b>
+  **React Native**
+  **React js** | 
+  **Next js** | 
+  **Javascript** | 
+  **Css** | 
+  **Sass** | 
+  **Html** | 
+  **Git**
 </p>
 😎.  
 
