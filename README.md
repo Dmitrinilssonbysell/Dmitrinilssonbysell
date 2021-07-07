@@ -4,8 +4,8 @@
 
 # Hello I'm Dmitri!
 
-Front-end developer specializing in javascript * Jensen Education College of Stockholm *.
-React Native | React js | Next js | Javascript | Css | Sass | Html | Git 😎.  
+<h1><b>Front-end Developer</b></h1> specializing in javascript * Jensen Education College of Stockholm *.
+<b>React Native</b> | <b>React js</b> | <b>Next js</b> | <b>Javascript</b> | <b>Css</b> | <b>Sass</b> | <b>Html</b> | <b>Git</b> 😎.  
 
 # https://nilssonbysell.com
 
