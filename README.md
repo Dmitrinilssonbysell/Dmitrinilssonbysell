@@ -12,9 +12,7 @@
 
 
 <i>Specializing in javascript * Jensen Education College of Stockholm *</i>
-
 # 
-
 <p>
   <b>React Native</b>
   <b>React js</b> | 
@@ -25,8 +23,7 @@
   <b>Html</b> | 
   <b>Git</b>
 </p>
-
-
+#
 <h2><i>https://nilssonbysell.com</i></h2>
 
 
