@@ -10,7 +10,8 @@
   </b>
 </h1> 
 Specializing in javascript * Jensen Education College of Stockholm *.
-<p style={color: rgb(0,130,255)}>
+- ![#f03c15]
+<p>
   <b>React Native</b> | 
   <b>React js</b> | 
   <b>Next js</b> | 
@@ -19,7 +20,9 @@ Specializing in javascript * Jensen Education College of Stockholm *.
   <b>Sass</b> | 
   <b>Html</b> | 
   <b>Git</b>
-</p> 😎.  
+</p>
+"#f03c15"
+😎.  
 
 # https://nilssonbysell.com
 
