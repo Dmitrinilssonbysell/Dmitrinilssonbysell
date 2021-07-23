@@ -10,9 +10,6 @@
   </b>
 </h2>
 
-
-<i>Specializing in javascript * Jensen Education College of Stockholm *</i>
-
 #
 
 <p>
