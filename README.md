@@ -10,7 +10,6 @@
   </b>
 </h2>
 
-#
 
 <p>
   <b>React Native</b>
