@@ -12,14 +12,16 @@
 
 
 <p>
-  <b>React Native</b>
+  <b>React Native</b> |
   <b>React js</b> | 
   <b>Next js</b> | 
   <b>Javascript</b> | 
   <b>Css</b> | 
   <b>Sass</b> | 
   <b>Html</b> | 
-  <b>Git</b>
+  <b>Git</b> |
+  <b>Netlify</b> |
+  <b>Npm</b>
 </p>
 
 #
