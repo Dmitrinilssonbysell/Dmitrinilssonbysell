@@ -6,7 +6,7 @@
 
 <h2>
   <b>
-    Front-end Developer 😎
+    WebDev 😎
   </b>
 </h2>
 
