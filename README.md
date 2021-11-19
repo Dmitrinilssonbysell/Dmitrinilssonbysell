@@ -26,6 +26,8 @@
 
 #
 
+<h2><i>https://blogg.nilssonbysell.com</i></h2>
+<h2><i>https://code.nilssonbysell.com</i></h2>
 <h2><i>https://nilssonbysell.com</i></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrinilssonbysell&show_icons=true&theme=radical)
