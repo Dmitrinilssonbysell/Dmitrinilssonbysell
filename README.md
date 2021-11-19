@@ -6,22 +6,21 @@
 
 <h2>
   <b>
-    WebDev 😎
+    Front-end | Back-end | Fullstack 😎
   </b>
 </h2>
 
 
 <p>
-  <b>React Native</b> |
-  <b>React js</b> | 
-  <b>Next js</b> | 
-  <b>Javascript</b> | 
+  <b>Javascript es6</b> |
+  <b>Node.js</b> |
+  <b>React.js</b> |
+  <b>SQL</b> |
   <b>Css</b> | 
   <b>Sass</b> | 
   <b>Html</b> | 
   <b>Git</b> |
-  <b>Netlify</b> |
-  <b>Npm</b>
+  <b>Linux</b>
 </p>
 
 #
