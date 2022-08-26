@@ -6,15 +6,17 @@
 
 <h2>
   <b>
-    Front-end | Back-end | Fullstack 😎
+    Front-end | Back-end 😎
   </b>
 </h2>
 
 
 <p>
   <b>Javascript es6</b> |
+  <b>Php</b> |
   <b>Node.js</b> |
   <b>React.js</b> |
+  <b>Symfony</b> |
   <b>SQL</b> |
   <b>Css</b> | 
   <b>Sass</b> | 
